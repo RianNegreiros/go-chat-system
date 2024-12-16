@@ -60,11 +60,4 @@ go test ./...
 - [React](https://react.dev/learn)
 - [SASS](https://sass-lang.com/install)
 - [Gorilla WebSocket](https://github.com/gorilla/websocket)
-
-### Author
-
-Rian Negreiros Dos Santos
-
-[![Linkedin Badge](https://img.shields.io/badge/-RianNegreiros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/riannegreiros/) 
-
-[![Gmail Badge](https://img.shields.io/badge/-riannegreiros@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:riannegreiros@gmail.com)
+- 
