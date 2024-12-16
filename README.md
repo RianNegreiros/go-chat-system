@@ -3,8 +3,7 @@
 <p align="center">
  <a href="#how-to-run">How to run</a> • 
  <a href="#tests">Tests</a> • 
- <a href="#libraries-and-tools">Libraries and Tools</a> • 
- <a href="#author">Author</a>
+ <a href="#libraries-and-tools">Libraries and Tools</a>
 </p>
 
 ![application image](_docs/app-image.png)
@@ -60,4 +59,3 @@ go test ./...
 - [React](https://react.dev/learn)
 - [SASS](https://sass-lang.com/install)
 - [Gorilla WebSocket](https://github.com/gorilla/websocket)
-- 
